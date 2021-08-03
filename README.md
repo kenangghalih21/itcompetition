@@ -1,9 +1,9 @@
 # Project Laravel,
 
 <h2>Anggota Kelompok</h2>
-<ol>
+<ul>
    <li>Kenang Ghalih Diasthama</li>
-</ol>
+</ul>
 
 <h2>Tema Project</h2>
 <p>Kesehatan/Jurnal kalori harian
